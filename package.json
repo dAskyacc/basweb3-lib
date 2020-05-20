@@ -1,0 +1,10 @@
+{
+  "name": "basweb3",
+  "version": "0.0.1",
+  "description": "BASChain web3 lib",
+  "main": "index.js",
+  "repository": "git@bas:orchid2ev/basweb3-lib.git",
+  "author": "orchid2ev <orchid2ev@baschain.org>",
+  "license": "MIT",
+  "private": true
+}
